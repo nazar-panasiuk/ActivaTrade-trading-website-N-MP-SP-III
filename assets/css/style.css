@@ -34,24 +34,24 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Noto+Serif:400,400i,700&display=swap");
 .boxed-btn {
     background: #fff;
-    color: #fc766aff !important;
+    color: #cbce91ff !important;
     display: inline-block;
     padding: 18px 44px;
     font-family: "Lato", sans-serif;
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #fc766aff;
+    border: 1px solid #cbce91ff;
     letter-spacing: 3px;
     text-align: center;
-    color: #fc766aff;
+    color: #cbce91ff;
     text-transform: uppercase;
     cursor: pointer;
 }
 .boxed-btn:hover {
-    background: #fc766aff;
+    background: #cbce91ff;
     color: #fff !important;
-    border: 1px solid #fc766aff;
+    border: 1px solid #cbce91ff;
 }
 .boxed-btn:focus {
     outline: none;
@@ -330,7 +330,7 @@ label {
 /* button style */
 .btn {
     -moz-user-select: none;
-    background: #fc766aff;
+    background: #cbce91ff;
     border: medium none;
     border-radius: 5px;
     color: #fff;
@@ -357,12 +357,12 @@ label {
 
 .border-btn {
     background: none;
-    border: 2px solid #fc766aff;
-    color: #fc766aff;
+    border: 2px solid #cbce91ff;
+    color: #cbce91ff;
 }
 
 .border-btn i {
-    color: #fc766aff !important;
+    color: #cbce91ff !important;
     position: relative;
     left: 0;
 }
@@ -475,7 +475,7 @@ label {
 
 /* scrollUp */
 #scrollUp {
-    background: #fc766aff;
+    background: #cbce91ff;
     height: 50px;
     width: 50px;
     right: 50px;
@@ -1928,7 +1928,7 @@ label {
     position: relative;
     border-style: solid;
     border-width: 3px;
-    border-top-color: #fc766aff;
+    border-top-color: #cbce91ff;
     border-bottom-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
@@ -1972,7 +1972,7 @@ label {
 
 .preloader .pere-text strong {
     font-weight: 800;
-    color: #fc766aff;
+    color: #cbce91ff;
     text-transform: uppercase;
 }
 
@@ -2287,7 +2287,7 @@ label {
 }
 
 .theme-bg {
-    background: #fc766aff;
+    background: #cbce91ff;
 }
 
 .brand-bg {
@@ -2308,7 +2308,7 @@ label {
 }
 
 .theme-color {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2353,7 +2353,7 @@ label {
     font-family: "Lato", sans-serif;
 }
 .main-header .main-menu ul li:hover > a {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .main-header .main-menu ul ul.submenu {
     position: absolute;
@@ -2381,7 +2381,7 @@ label {
     color: #0b1c39;
 }
 .main-header .main-menu ul ul.submenu > li > a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 
 .main-header ul > li:hover > ul.submenu {
@@ -2737,12 +2737,12 @@ label {
 .nice-select .option:hover,
 .nice-select .option.focus,
 .nice-select .option.selected.focus {
-    background-color: #fc766aff;
+    background-color: #cbce91ff;
     color: #791616;
 }
 
 .booking-area .booking-wrap .nice-select.open .list {
-    border: 1px solid #fc766aff;
+    border: 1px solid #cbce91ff;
     width: 100%;
 }
 
@@ -2805,7 +2805,7 @@ label {
     }
 }
 .customer-caption span {
-    color: #fc766aff;
+    color: #cbce91ff;
     font-size: 14px;
     display: block;
     margin-bottom: 13px;
@@ -3116,7 +3116,7 @@ label {
     transition: all 0.3s ease-out 0s;
 }
 .single-room .room-caption:hover h3 a {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .single-room .room-caption h3 {
     color: #112e41;
@@ -3130,7 +3130,7 @@ label {
     }
 }
 .single-room .room-caption h3 a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .single-room .room-caption .per-night span {
     color: #112e41;
@@ -3285,7 +3285,7 @@ label {
     }
 }
 .dining-area .dining-caption span {
-    color: #fc766aff;
+    color: #cbce91ff;
     text-transform: uppercase;
     margin-bottom: 14px;
     display: block;
@@ -3411,7 +3411,7 @@ label {
 }
 
 .h1-testimonial-active:hover button {
-    background: #fc766aff;
+    background: #cbce91ff;
     color: #fff;
 }
 
@@ -3444,7 +3444,7 @@ label {
 }
 .blog-area .single-blog .blog-caption .blog-cap-top span {
     color: #fff;
-    background: #fc766aff;
+    background: #cbce91ff;
     padding: 4px 13px;
     text-transform: uppercase;
     font-size: 14px;
@@ -3457,7 +3457,7 @@ label {
     font-family: "Lato", sans-serif;
 }
 .blog-area .single-blog .blog-caption .blog-cap-top ul li a {
-    color: #fc766aff;
+    color: #cbce91ff;
     font-size: 14px;
 }
 .blog-area .single-blog .blog-caption .blog-cap-mid p a {
@@ -3473,7 +3473,7 @@ label {
     }
 }
 .blog-area .single-blog .blog-caption .blog-cap-mid p a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .blog-area .single-blog .blog-caption .blog-cap-bottom {
     padding-top: 20px;
@@ -3522,7 +3522,7 @@ label {
 }
 
 .footer-area .footer-social2 a:hover {
-    background: #fc766aff;
+    background: #cbce91ff;
     color: #fff;
     border: 1px solid transparent;
 }
@@ -3533,7 +3533,7 @@ label {
     padding-right: 52px;
 }
 .footer-area .footer-pera p span a {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .footer-area .footer-pera p span a:hover {
     color: #fff;
@@ -3555,7 +3555,7 @@ label {
     font-weight: 300;
 }
 .footer-area .footer-tittle ul li a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
     padding-left: 5px;
 }
 
@@ -3581,7 +3581,7 @@ label {
 }
 
 .footer-area .info.error {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 
 .hero-caption span {
@@ -3598,7 +3598,7 @@ label {
     content: "";
     width: 75px;
     height: 3px;
-    background: #fc766aff;
+    background: #cbce91ff;
     left: 0;
     top: 52%;
     transform: translateY(-50%);
@@ -3627,7 +3627,7 @@ label {
 }
 .blog_area a:hover,
 .blog_area a :hover {
-    background: -webkit-linear-gradient(131deg, #fc766aff 0%, #fc766aff 99%);
+    background: -webkit-linear-gradient(131deg, #cbce91ff 0%, #cbce91ff 99%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -4035,7 +4035,7 @@ label {
     color: #ff8b23;
 }
 .blog_details a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .blog_details h2 {
     font-size: 18px;
@@ -4086,7 +4086,7 @@ label {
     left: 10px;
     display: block;
     color: #fff;
-    background-color: #fc766aff;
+    background-color: #cbce91ff;
     padding: 8px 15px;
     border-radius: 5px;
 }
@@ -4260,7 +4260,7 @@ label {
     font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-    background: #fc766aff;
+    background: #cbce91ff;
     color: #fff !important;
     -webkit-text-fill-color: #fff;
     text-decoration: none;
@@ -4451,7 +4451,7 @@ label {
     display: inline-block;
 }
 .single-post-area .blog-author a:hover {
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 .single-post-area .blog-author p {
     margin-bottom: 0;
@@ -4694,24 +4694,24 @@ label {
 */
 .boxed-btn {
     background: #fff;
-    color: #fc766aff !important;
+    color: #cbce91ff !important;
     display: inline-block;
     padding: 18px 44px;
     font-family: "Lato", sans-serif;
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #fc766aff;
+    border: 1px solid #cbce91ff;
     letter-spacing: 3px;
     text-align: center;
-    color: #fc766aff;
+    color: #cbce91ff;
     text-transform: uppercase;
     cursor: pointer;
 }
 .boxed-btn:hover {
-    background: #fc766aff;
+    background: #cbce91ff;
     color: #fff !important;
-    border: 1px solid #fc766aff;
+    border: 1px solid #cbce91ff;
 }
 .boxed-btn:focus {
     outline: none;
@@ -6443,12 +6443,12 @@ h6 {
     display: none;
 }
 header i {
-    color: #fc766aff;
+    color: #cbce91ff;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #fc766aff;
+    color: #cbce91ff;
     font-weight: 500;
     text-align: center;
 }
@@ -6456,7 +6456,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #fc766aff;
+    color: #cbce91ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -6468,10 +6468,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #fc766aff;
+    border: 2px solid #cbce91ff;
     color: #fff;
     padding: 8px 0;
-    background: #fc766aff;
+    background: #cbce91ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -6480,15 +6480,15 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #fc766aff;
+    color: #cbce91ff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #fc766aff;
+    color: #cbce91ff;
     border-radius: 0;
 }
 #declineBtn:hover {
-    background-color: #fc766aff;
+    background-color: #cbce91ff;
     color: #fff;
 }
 select {

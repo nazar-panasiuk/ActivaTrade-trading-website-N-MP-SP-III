@@ -3,7 +3,7 @@
     color: #9d9d9d;
     background-color: #fff;
     border-radius: 5px;
-    border: solid 1px #fc766aff;
+    border: solid 1px #cbce91ff;
     box-sizing: border-box;
     clear: both;
     cursor: pointer;
@@ -34,7 +34,7 @@
 .nice-select:active,
 .nice-select.open,
 .nice-select:focus {
-    border-color: #fc766aff;
+    border-color: #cbce91ff;
 }
 .nice-select::after {
     border-bottom: 2px solid #999;
